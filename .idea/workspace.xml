@@ -5,22 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d71e68-09ed-4bfb-b45f-909a3730c853" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/ceva/ch03/access/PropProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/com/ceva/ch03/access/PropRequester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter03/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter04/src/main/java/com/ceva/bgn/four/basic/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildingblocks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildingblocks/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildingblocks/src/main/java/build/com/ceva/buildingblocks/part1/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/buildingblocks/src/main/java/com/ceva/buildingblocks/part1/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,7 +56,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.ceva.buildingblocks.part1.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ceva.bgn.buildingblocks.part1.Demo" />
+      <module name="chapter04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ceva.bgn.buildingblocks.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ceva.bgn.four.basic.HelloWorld" />
       <module name="chapter04" />
@@ -78,8 +83,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ceva.buildingblocks.part1.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ceva.buildingblocks.part1.Demo" />
+      <module name="buildingblocks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ceva.buildingblocks.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ceva.buildingblocks.part1.Demo" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
@@ -94,6 +114,9 @@
       <updated>1689609127266</updated>
       <workItem from="1689609128329" duration="3377000" />
       <workItem from="1690249066275" duration="3823000" />
+      <workItem from="1690998411395" duration="7492000" />
+      <workItem from="1691098264926" duration="4173000" />
+      <workItem from="1691111145030" duration="5251000" />
     </task>
     <servers />
   </component>
