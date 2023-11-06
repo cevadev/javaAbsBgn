@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d71e68-09ed-4bfb-b45f-909a3730c853" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructAndAlgo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructAndAlgo/src/ch01/arrays/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +129,8 @@
       <workItem from="1690998411395" duration="7492000" />
       <workItem from="1691098264926" duration="4173000" />
       <workItem from="1691111145030" duration="5251000" />
-      <workItem from="1698940560014" duration="9443000" />
+      <workItem from="1698940560014" duration="10818000" />
+      <workItem from="1698968052370" duration="201000" />
     </task>
     <servers />
   </component>
