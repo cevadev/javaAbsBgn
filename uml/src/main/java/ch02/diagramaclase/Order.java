@@ -1,6 +1,6 @@
 package ch02.diagramaclase;
 
-public class Orden {
+public class Order {
     protected Menu m;
     Waiter waiter;
     Cook cook;

@@ -1,2 +1,7 @@
-package ch02.diagramaclase;public class Cook {
+package ch02.diagramaclase;
+
+import java.util.List;
+
+public class Cook {
+    List<Order> orders;
 }

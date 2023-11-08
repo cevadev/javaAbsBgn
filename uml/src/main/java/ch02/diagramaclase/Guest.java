@@ -1,59 +1,60 @@
 package ch02.diagramaclase;
 
-import java.security.PublicKey;
-
-public class Invitado {
+public class Guest {
     public static final double MIN = 200.0;
     public static String status = "Rey";
-    private double cantidadDinero;
-    boolean hambre;
-    protected String[] amigos;
-    public char[] alfabeto;
+    private double moneyQuantity;
+    boolean hungry;
+    protected String[] friends;
+    public char[] alphabet;
 
     // atributo derivado
-    public boolean invitarAmigos(){
-        return cantidadDinero > MIN;
+    public boolean inviteFriends(){
+        return moneyQuantity > MIN;
     }
 
-    public Invitado(){
-        hambre = true;
-        amigos = new String[10];
-        amigos[0] = new String();
+    public Guest(){
+        hungry = true;
+        friends = new String[10];
+        friends[0] = new String();
         for(int i = 0; i < 26; i++){
-            alfabeto[i] = (char) ('a' + i);
+            alphabet[i] = (char) ('a' + i);
         }
     }
 
     public void setCantidadDinero(double cantidadDinero){
         if(cantidadDinero > 0){
-            this.cantidadDinero = cantidadDinero;
+            this.moneyQuantity = cantidadDinero;
         }
     }
 
-    public double getCantidadDinero(){
-        return this.cantidadDinero;
+    public double getMOneyQuantity(){
+        return this.moneyQuantity;
     }
 
     public static String getMINAsString(){
         return "Cantidad minima de dinero " + MIN;
     }
 
-    public void setAmigo(final String amigo, int pos){
+    public void setFriend(final String amigo, int pos){
         if(pos <= 9 && pos > 0){
-            amigos[pos] =  amigo;
+            friends[pos] =  amigo;
         }
     }
 
-    public void getMejorAmigo(StringBuffer amigo){
-        amigo.append(this.amigos[0]);
+    public void getBestFriend(StringBuffer amigo){
+        amigo.append(this.friends[0]);
     }
 
-    public String[] getAmigos(){
-        return this.amigos;
+    public String[] getFriends(){
+        return this.friends;
     }
 
     public String getAlphabet(int start, int end){
         StringBuffer temp = new StringBuffer();
-        for(int i = start-1; ){}
+        for(int i = start-1; i < alphabet.length && i < end; i++){
+            temp.append(alphabet[i]);
+        }
+        return temp.toString();
     }
 }

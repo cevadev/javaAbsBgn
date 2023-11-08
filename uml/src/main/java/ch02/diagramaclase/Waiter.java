@@ -1,2 +1,7 @@
-package ch02.diagramaclase;public class Waiter {
+package ch02.diagramaclase;
+
+import java.util.List;
+
+public class Waiter {
+    List<Order> orders;
 }
