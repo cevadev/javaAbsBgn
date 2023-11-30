@@ -1,0 +1,3 @@
+En Java no se permite la relacion ternaria entre clases por lo que este tipo
+de relaciones deben convertirse en relaciones binarias para poder ser
+programadas en java

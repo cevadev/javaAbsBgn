@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d71e68-09ed-4bfb-b45f-909a3730c853" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/asociacio_reflexiva/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/asociacion/Comensal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/asociacion/Restaurante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Cook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Court.java" beforeDir="false" afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Court.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Guest.java" beforeDir="false" afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Guest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Meal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/uml/src/main/java/ch02/diagramaclase/Waiter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +134,10 @@
       <workItem from="1699235543442" duration="4812000" />
       <workItem from="1699318434105" duration="3999000" />
       <workItem from="1699367046707" duration="86000" />
+      <workItem from="1699417605032" duration="2390000" />
+      <workItem from="1699556843916" duration="246000" />
+      <workItem from="1700146295201" duration="2274000" />
+      <workItem from="1700697125386" duration="7000" />
     </task>
     <servers />
   </component>
